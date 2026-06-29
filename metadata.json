@@ -1,0 +1,6 @@
+{
+  "name": "BrassWorksCo",
+  "description": "Premium luxury custom brass and metal manufacturing since 1960. Serving global brands, architects, and luxury designers with precision engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
